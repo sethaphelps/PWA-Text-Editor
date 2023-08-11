@@ -7,8 +7,8 @@ In this assignment I needed to refactor code in order to create a text editor th
   * [Install](#install)
   * [Usage](#usage)
   * [Images](#images)
+  * [Contributions](#contributions)
   * [Contact](#contact)
-
 
   ## Install
 
@@ -19,10 +19,18 @@ In this assignment I needed to refactor code in order to create a text editor th
   Once in the of the folder, run 'npm run build'. Once the build is over, run 'npm run start'.
 
   ## Images
+
   ![jate](./assets/JATE-1.png)
+
   ![jate](./assets/JATE-2.png)
+
   ![jate](./assets/JATE-3.png)
+  
   ![jate](./assets/JATE-4.png)
+
+  ## Contributions
+
+  Thank you to my TA and Tutor for assisting me in this project and getting it deployed to Heroku.
 
   ## Contact
 
